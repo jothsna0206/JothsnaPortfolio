@@ -88,7 +88,7 @@ export default function ScrollyCanvas() {
 
   return (
     <div id="home" ref={containerRef} className="relative h-[500vh] bg-black">
-      {loadedCount < FRAME_COUNT && (
+      {false && (
         <div className="fixed inset-0 flex items-center justify-center z-50 bg-black/80 text-white backdrop-blur-sm transition-opacity duration-500">
           <div className="flex flex-col items-center gap-4">
             <div className="text-sm font-mono tracking-widest text-white/50">LOADING ASSETS</div>
