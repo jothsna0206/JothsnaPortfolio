@@ -36,7 +36,7 @@ export default function About() {
               I am a passionate developer with a drive to create meaningful digital experiences. I enjoy exploring how technology shapes the world and constantly challenge myself to learn, build, and innovate through hands-on projects and real-world problem-solving.
             </p>
             <p>
-              When I'm not coding, you'll find me studying new design patterns, exploring creative technologies, and finding ways to turn inspiration into innovation. I believe that the best products are built at the intersection of robust engineering and beautiful design.
+            When I&apos;m not coding, you&apos;ll find me studying new design patterns, exploring creative technologies, and finding ways to turn inspiration into innovation. I believe that the best products are built at the intersection of robust engineering and beautiful design.
             </p>
           </motion.div>
 
